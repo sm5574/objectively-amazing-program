@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegeneratortests.determineprobabilityofchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegeneratortests.determineprobabilityofchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.createallcellwalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.createallcellwalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\interfaces\\imaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\interfaces\\imaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C95C3DE-AE9A-4131-B785-73A616233D18}|AmazingMazesConsole\\AmazingMazesConsole.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C95C3DE-AE9A-4131-B785-73A616233D18}|AmazingMazesConsole\\AmazingMazesConsole.csproj|solutionrelative:amazingmazesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\mazegenerationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\mazegenerationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\mazecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\mazecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.creatematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.creatematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getdirectionfromavailabledirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getdirectionfromavailabledirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getoneoftwodirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getoneoftwodirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests_old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests_old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getoneofthreedirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getoneofthreedirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getavailabledirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getavailabledirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getnewpreviousdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getnewpreviousdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getprohibiteddirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getprohibiteddirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getnextcelltovisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazegenerationutilstests\\mazegenerationutilstests.getnextcelltovisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\randomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\randomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\interfaces\\irandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\interfaces\\irandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\mazecellwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\mazecellwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\interfaces\\imazecellwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\interfaces\\imazecellwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\interfaces\\imazecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\interfaces\\imazecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazing mazes core\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24DB29-E0DB-4E47-B1E5-D368255BFE74}|Amazing Mazes Core\\AmazingMazesCore.csproj|solutionrelative:amazing mazes core\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|c:\\users\\sm557\\onedrive\\source\\repos\\amazing mazes\\amazingmazestests\\mazecellwalltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04DBAD2-3A25-4F16-A1B7-13D69A39B9E0}|AmazingMazesTests\\AmazingMazesTests.csproj|solutionrelative:amazingmazestests\\mazecellwalltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MazeGenerationUtilsTests.CreateAllCellWalls.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateAllCellWalls.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateAllCellWalls.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateAllCellWalls.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateAllCellWalls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:39:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MazeGeneratorTests.DetermineProbabilityOfChange.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGeneratorTests.DetermineProbabilityOfChange.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGeneratorTests.DetermineProbabilityOfChange.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGeneratorTests.DetermineProbabilityOfChange.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGeneratorTests.DetermineProbabilityOfChange.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:24:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MazeGenerationUtilsTests_old.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests_old.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests_old.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests_old.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests_old.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAApwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:55:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MazeGenerationUtilsTests.GetOneOfTwoDirections.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfTwoDirections.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfTwoDirections.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfTwoDirections.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfTwoDirections.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:51:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MazeGenerationUtilsTests.GetOneOfThreeDirections.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfThreeDirections.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfThreeDirections.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfThreeDirections.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetOneOfThreeDirections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:47:59.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MazeGenerationUtilsTests.GetAvailableDirections.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetAvailableDirections.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetAvailableDirections.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetAvailableDirections.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetAvailableDirections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:42:35.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MazeGenerationUtilsTests.GetDirectionFromAvailableDirections.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetDirectionFromAvailableDirections.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetDirectionFromAvailableDirections.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetDirectionFromAvailableDirections.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetDirectionFromAvailableDirections.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAhwDgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:53:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MazeGenerationUtilsTests.CreateMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateMatrix.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateMatrix.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateMatrix.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.CreateMatrix.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAtwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:52:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RandomProvider.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\RandomProvider.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\RandomProvider.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\RandomProvider.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\RandomProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:13:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRandomProvider.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IRandomProvider.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\Interfaces\\IRandomProvider.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IRandomProvider.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\Interfaces\\IRandomProvider.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:12:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MazeGenerationUtilsTests.GetNewPreviousDirection.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNewPreviousDirection.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNewPreviousDirection.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNewPreviousDirection.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNewPreviousDirection.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:44:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MazeGenerationUtilsTests.GetNextCellToVisit.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNextCellToVisit.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNextCellToVisit.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNextCellToVisit.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetNextCellToVisit.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:42:12.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MazeGenerationUtilsTests.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAApwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:29:15.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MazeGenerationUtilsTests.GetProhibitedDirection.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetProhibitedDirection.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetProhibitedDirection.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetProhibitedDirection.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeGenerationUtilsTests\\MazeGenerationUtilsTests.GetProhibitedDirection.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAD4v6EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:26:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMazeCellWall.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IMazeCellWall.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\Interfaces\\IMazeCellWall.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IMazeCellWall.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\Interfaces\\IMazeCellWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:29:29.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MazeCellWallTests.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeCellWallTests.cs",
+              "RelativeDocumentMoniker": "AmazingMazesTests\\MazeCellWallTests.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesTests\\MazeCellWallTests.cs",
+              "RelativeToolTip": "AmazingMazesTests\\MazeCellWallTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:54:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\EnumExtensions.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\EnumExtensions.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\EnumExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:27:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Enums.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\Enums.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Enums.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:21:14.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MazeCell.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeCell.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\MazeCell.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeCell.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\MazeCell.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMazeCell.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IMazeCell.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\Interfaces\\IMazeCell.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IMazeCell.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\Interfaces\\IMazeCell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Maze.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\Maze.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Maze.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\Maze.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAtwMwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesConsole\\Program.cs",
+              "RelativeDocumentMoniker": "AmazingMazesConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\AmazingMazesConsole\\Program.cs",
+              "RelativeToolTip": "AmazingMazesConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MazeGenerationUtils.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeGenerationUtils.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\MazeGenerationUtils.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeGenerationUtils.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\MazeGenerationUtils.cs",
+              "ViewState": "AgIAAFwCAAAAAAAAAAApwGwCAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MazeCellWall.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeCellWall.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\MazeCellWall.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeCellWall.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\MazeCellWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMaze.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IMaze.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\Interfaces\\IMaze.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\Interfaces\\IMaze.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\Interfaces\\IMaze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MazeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeGenerator.cs",
+              "RelativeDocumentMoniker": "Amazing Mazes Core\\MazeGenerator.cs",
+              "ToolTip": "C:\\Users\\sm557\\OneDrive\\source\\repos\\Amazing Mazes\\Amazing Mazes Core\\MazeGenerator.cs",
+              "RelativeToolTip": "Amazing Mazes Core\\MazeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T18:41:33.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
